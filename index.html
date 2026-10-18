@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alza Slevy Dashboard</title>
+    <style>
+        :root { --bg: #0f172a; --card-bg: #1e293b; --text: #f8fafc; --muted: #94a3b8; }
+        body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        header { border-bottom: 1px solid #334155; padding-bottom: 15px; margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+        h1 { margin: 0; font-size: 1.4rem; color: #38bdf8; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; margin-top: 20px; }
+        .card { background: var(--card-bg); border-radius: 10px; padding: 15px; border: 1px solid #334155; display: flex; flex-direction: column; justify-content: space-between; }
+        .card-title { font-size: 0.95rem; font-weight: 600; margin-bottom: 10px; color: #f1f5f9; word-break: break-word; }
+        .card-code { font-size: 0.8rem; color: var(--muted); margin-bottom: 8px; }
+        .card-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 15px; flex-wrap: wrap; gap: 5px; }
+        .badge { background: #10b981; color: white; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 0.85rem; }
+        .coupon-badge { background: #f59e0b; color: #000; padding: 4px 8px; border-radius: 6px; font-weight: bold; font-size: 0.85rem; }
+        .link-btn { background: #2563eb; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 600; }
+        .updated { color: var(--muted); font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>🛒 Alza Slevový Dashboard</h1>
+                <div class="updated" id="updated-at">Načítám data...</div>
+            </div>
+        </header>
+
+        <div id="content">
+            <p style="color: var(--muted);">Načítám nejnovější verifikované slevy z GitHubu...</p>
+        </div>
+    </div>
+
+    <script>
+        async function loadDeals() {
+            try {
+                const response = await fetch('./alza_slevy.json?t=' + new Date().getTime());
+                const data = await response.json();
+                
+                document.getElementById('updated-at').innerText = 'Poslední aktualizace: ' + data.updated_at;
+                
+                const container = document.getElementById('content');
+                if (!data.items || data.items.length === 0) {
+                    container.innerHTML = '<p style="color: var(--muted);">Zatím nebyly publikovány žádné slevy.</p>';
+                    return;
+                }
+
+                let html = `<h2>Nalezené produkty pro kupón ${data.filter_coupon} (Celkem: ${data.items.length}):</h2><div class="grid">`;
+                
+                data.items.forEach(item => {
+                    html += `
+                        <div class="card">
+                            <div>
+                                <div class="card-code">Kód: ${item.order_code}</div>
+                                <div class="card-title">${item.name}</div>
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge">${item.price}</span>
+                                <span class="coupon-badge">🏷️ ${item.coupon}</span>
+                                ${item.link ? `<a href="${item.link}" target="_blank" class="link-btn">Detail ➔</a>` : ''}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                html += '</div>';
+                container.innerHTML = html;
+            } catch (err) {
+                document.getElementById('content').innerHTML = '<p style="color: #ef4444;">Chyba při načítání dat slev.</p>';
+            }
+        }
+
+        loadDeals();
+    </script>
+</body>
+</html>
