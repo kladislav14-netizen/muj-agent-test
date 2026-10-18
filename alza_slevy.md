@@ -1,4 +1,21 @@
-# Přehled slev přečtených z aplikace Alza (ADB)
-*Poslední aktualizace: 2026-10-18 13:56:39*
+# Přehled produktů Alza dny (ALZADNY15)
+*Poslední aktualizace: 2026-10-18 14:18:22 | Doba skenování: 200.4 s | Celkem: 18 produktů*
 
-Při skenování obrazovky nebyly nalezeny žádné akční položky.
+- **Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)** (Kód: `https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm`) - **8 990,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm)
+- **HP ProBook 4 G1i 16 (3 roky servis)** (Kód: `https://www.alza.cz/hp-probook-4-g1i-16-d13489720.htm`) - **18 692,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/hp-probook-4-g1i-16-d13489720.htm)
+- **HP ProBook 4 G2a 16 (bez adaptéru) (3 roky servis)** (Kód: `https://www.alza.cz/hp-probook-4-g2a-16-bez-adapteru-d13440430.htm`) - **20 392,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/hp-probook-4-g2a-16-bez-adapteru-d13440430.htm)
+- **HP OmniBook X Flip AI 16-cc0900ncx (bez adaptéru) (2 roky ON-SITE servis)** (Kód: `https://www.alza.cz/hp-omnibook-x-flip-ai-16-cc0900ncx-bez-adapteru-d13511009.htm`) - **29 317,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/hp-omnibook-x-flip-ai-16-cc0900ncx-bez-adapteru-d13511009.htm)
+- **34" Rapture VIDE 34VCW180** (Kód: `https://www.alza.cz/34-rapture-vide-34vcw180-d13098395.htm`) - **5 942,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/34-rapture-vide-34vcw180-d13098395.htm)
+- **AlzaPC GameBox Prime - U5 / RTX5060 / 32GB RAM / 1TB SSD** (Kód: `https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060-32gb-ram-1tb-ssd-d13220920.htm`) - **33 142,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060-32gb-ram-1tb-ssd-d13220920.htm)
+- **32" LG UltraGear 32GS60QC-B** (Kód: `https://www.alza.cz/32-lg-32gs60qc-b-d12599106.htm`) - **3 987,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/32-lg-32gs60qc-b-d12599106.htm)
+- **27" Lenovo Legion 27Q-10** (Kód: `https://www.alza.cz/27-lenovo-legion-27q-10-d13047385.htm`) - **3 987,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/27-lenovo-legion-27q-10-d13047385.htm)
+- **Siguro MO-B130B Element** (Kód: `https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm`) - **1 119,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm)
+- **Siguro Essentials D241W + 12 let záruka na kompresor** (Kód: `https://www.alza.cz/siguro-essentials-d241w-d12757545.htm`) - **4 249,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/siguro-essentials-d241w-d12757545.htm)
+- **Siguro Osuška Comfy Touch, Misty Gray, 70 x 140 cm** (Kód: `https://www.alza.cz/siguro-osuska-comfy-touch-misty-gray-70-x-140-cm-d13096338.htm`) - **322,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/siguro-osuska-comfy-touch-misty-gray-70-x-140-cm-d13096338.htm)
+- **Siguro BF-C241Y Essentials + 12 let záruka na kompresor** (Kód: `https://www.alza.cz/siguro-bf-c241y-essentials-d12688039.htm`) - **6 367,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/siguro-bf-c241y-essentials-d12688039.htm)
+- **GymBeam Magnesium Block 56g** (Kód: `https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm`) - **87,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm)
+- **Camp Axion Light XXL** (Kód: `6884412`) - **416,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/camp-axion-light?dq=6884412)
+- **Camp Spark XS** (Kód: `https://www.alza.cz/sport/camp-spark-xs-d12937042.htm`) - **1 062,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/camp-spark-xs-d12937042.htm)
+- **8BPLUS Bobo** (Kód: `https://www.alza.cz/sport/8bplus-lezecky-pytlik-bobo-d7105254.htm`) - **543,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/8bplus-lezecky-pytlik-bobo-d7105254.htm)
+- **8BPLUS Jamie** (Kód: `https://www.alza.cz/sport/8bplus-lezecky-pytlik-jamie-d7105238.htm`) - **679,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/8bplus-lezecky-pytlik-jamie-d7105238.htm)
+- **8BPLUS Stan** (Kód: `https://www.alza.cz/sport/8bplus-lezecky-pytlik-stan-d7105243.htm`) - **594,-** [Kupón: `ALZADNY15`] - [Zobrazit na Alze](https://www.alza.cz/sport/8bplus-lezecky-pytlik-stan-d7105243.htm)

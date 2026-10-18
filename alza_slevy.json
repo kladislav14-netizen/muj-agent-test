@@ -1,4 +1,135 @@
 {
-  "updated_at": "2026-10-18 13:56:39",
-  "items": []
+  "updated_at": "2026-10-18 14:18:22",
+  "duration_seconds": 200.4,
+  "status": "SUCCESS",
+  "filter_coupon": "ALZADNY15",
+  "total_items_count": 18,
+  "items": [
+    {
+      "order_code": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm",
+      "name": "Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)",
+      "price": "8 990,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/hp-probook-4-g1i-16-d13489720.htm",
+      "name": "HP ProBook 4 G1i 16 (3 roky servis)",
+      "price": "18 692,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/hp-probook-4-g1i-16-d13489720.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/hp-probook-4-g2a-16-bez-adapteru-d13440430.htm",
+      "name": "HP ProBook 4 G2a 16 (bez adaptéru) (3 roky servis)",
+      "price": "20 392,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/hp-probook-4-g2a-16-bez-adapteru-d13440430.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/hp-omnibook-x-flip-ai-16-cc0900ncx-bez-adapteru-d13511009.htm",
+      "name": "HP OmniBook X Flip AI 16-cc0900ncx (bez adaptéru) (2 roky ON-SITE servis)",
+      "price": "29 317,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/hp-omnibook-x-flip-ai-16-cc0900ncx-bez-adapteru-d13511009.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/34-rapture-vide-34vcw180-d13098395.htm",
+      "name": "34\" Rapture VIDE 34VCW180",
+      "price": "5 942,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/34-rapture-vide-34vcw180-d13098395.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060-32gb-ram-1tb-ssd-d13220920.htm",
+      "name": "AlzaPC GameBox Prime - U5 / RTX5060 / 32GB RAM / 1TB SSD",
+      "price": "33 142,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/alzapc/alzapc-gamebox-prime-u5-rtx5060-32gb-ram-1tb-ssd-d13220920.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/32-lg-32gs60qc-b-d12599106.htm",
+      "name": "32\" LG UltraGear 32GS60QC-B",
+      "price": "3 987,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/32-lg-32gs60qc-b-d12599106.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/27-lenovo-legion-27q-10-d13047385.htm",
+      "name": "27\" Lenovo Legion 27Q-10",
+      "price": "3 987,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/27-lenovo-legion-27q-10-d13047385.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm",
+      "name": "Siguro MO-B130B Element",
+      "price": "1 119,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-essentials-d241w-d12757545.htm",
+      "name": "Siguro Essentials D241W + 12 let záruka na kompresor",
+      "price": "4 249,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/siguro-essentials-d241w-d12757545.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-osuska-comfy-touch-misty-gray-70-x-140-cm-d13096338.htm",
+      "name": "Siguro Osuška Comfy Touch, Misty Gray, 70 x 140 cm",
+      "price": "322,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/siguro-osuska-comfy-touch-misty-gray-70-x-140-cm-d13096338.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-bf-c241y-essentials-d12688039.htm",
+      "name": "Siguro BF-C241Y Essentials + 12 let záruka na kompresor",
+      "price": "6 367,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/siguro-bf-c241y-essentials-d12688039.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm",
+      "name": "GymBeam Magnesium Block 56g",
+      "price": "87,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm"
+    },
+    {
+      "order_code": "6884412",
+      "name": "Camp Axion Light XXL",
+      "price": "416,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/camp-axion-light?dq=6884412"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/camp-spark-xs-d12937042.htm",
+      "name": "Camp Spark XS",
+      "price": "1 062,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/camp-spark-xs-d12937042.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-bobo-d7105254.htm",
+      "name": "8BPLUS Bobo",
+      "price": "543,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-bobo-d7105254.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-jamie-d7105238.htm",
+      "name": "8BPLUS Jamie",
+      "price": "679,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-jamie-d7105238.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-stan-d7105243.htm",
+      "name": "8BPLUS Stan",
+      "price": "594,-",
+      "coupon": "ALZADNY15",
+      "link": "https://www.alza.cz/sport/8bplus-lezecky-pytlik-stan-d7105243.htm"
+    }
+  ]
 }
