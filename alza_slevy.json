@@ -1,7 +1,7 @@
 {
-  "run_id": "run_20261018_203207_64c299",
-  "updated_at": "2026-10-18 20:35:39",
-  "duration_seconds": 211.8,
+  "run_id": "run_20261018_205010_f8328b",
+  "updated_at": "2026-10-18 20:54:18",
+  "duration_seconds": 248.7,
   "status": "SUCCESS",
   "filter_coupon": "ALZADNY50",
   "total_items_count": 2,
@@ -9,14 +9,14 @@
     {
       "order_code": "https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm",
       "name": "SIEMENS TP511R01 EQ500 classic",
-      "price": "Cena v detailu",
+      "price": "9999.00,- Kč",
       "coupon": "ALZADNY50",
       "link": "https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm"
     },
     {
       "order_code": "https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm",
       "name": "Tefal EY5728E1 Easy Fry Silence",
-      "price": "Cena v detailu",
+      "price": "1499.00,- Kč",
       "coupon": "ALZADNY50",
       "link": "https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm"
     }
