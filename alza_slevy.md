@@ -1,4 +1,4 @@
-# Přehled slev Alza.cz (50 %+)
-*Poslední aktualizace: 2026-10-18 13:20:19*
+# Přehled aktuálních slev a akcí
+*Poslední aktualizace: 2026-10-18 13:24:14*
 
-Při skenování nebyly nalezeny žádné položky se slevou 50 %+.
+Při skenování nebyly nalezeny žádné akční nabídky.
