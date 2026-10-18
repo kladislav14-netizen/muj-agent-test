@@ -1,5 +1,5 @@
 # Přehled produktů Alza dny (ALZADNY20)
-*Run ID: `run_20261018_142942_2bb921` | Aktualizováno: 2026-10-18 14:34:39 | Čas: 296.9 s | Celkem: 28 produktů*
+*Run ID: `run_20261018_143005_606c41` | Aktualizováno: 2026-10-18 14:34:48 | Čas: 283.4 s | Celkem: 28 produktů*
 
 - **Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)** (Kód: `https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm`) - **8 990,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm)
 - **Samsung 990 PRO 4TB** (Kód: `https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm`) - **16 792,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm)
