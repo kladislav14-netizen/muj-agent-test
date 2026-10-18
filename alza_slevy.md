@@ -1,17 +1,6 @@
-# Přehled produktů Alza dny (ALZADNY25)
-*Run ID: `run_20261018_145259_deb681` | Aktualizováno: 2026-10-18 14:56:29 | Čas: 209.4 s | Celkem: 14 produktů*
+# Přehled produktů Alza dny (ALZADNY50)
+*Run ID: `run_20261018_150533_8b9bad` | Aktualizováno: 2026-10-18 15:09:18 | Čas: 225.3 s | Celkem: 3 produktů*
 
-- **Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)** (Kód: `https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm`) - **8 990,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm)
-- **HP OmniBook 7 Aero AI 13-bg1433nc Ceramic White (2 roky ON-SITE servis)** (Kód: `https://www.alza.cz/hp-omnibook-7-aero-ai-13-bg1433nc-ceramic-white-d12993234.htm`) - **22 493,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/hp-omnibook-7-aero-ai-13-bg1433nc-ceramic-white-d12993234.htm)
-- **34" AOC CU34G4** (Kód: `https://www.alza.cz/34-aoc-cu34g4-d13041832.htm`) - **5 390,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/34-aoc-cu34g4-d13041832.htm)
-- **Siguro MO-B130B Element** (Kód: `https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm`) - **1 119,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm)
-- **Rapture X-RAY Outemu Red černá - CZ/SK** (Kód: `https://www.alza.cz/rapture-x-ray-outemu-red-cerna-cz-sk-d6900089.htm`) - **743,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/rapture-x-ray-outemu-red-cerna-cz-sk-d6900089.htm)
-- **WOWME Aurora + 2 řemínky v balení** (Kód: `https://www.alza.cz/wowme-aurora-d13079519.htm`) - **1 418,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/wowme-aurora-d13079519.htm)
-- **AlzaPower LML-120 Monitor Light Bar 5W, 51cm, černé** (Kód: `https://www.alza.cz/alzapower-lml-120-monitor-light-bar-5w-51cm-cerne-d12406731.htm`) - **1 274,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/alzapower-lml-120-monitor-light-bar-5w-51cm-cerne-d12406731.htm)
-- **Siguro Air Control M100W 30l WiFi** (Kód: `https://www.alza.cz/siguro-dh-m100w-air-control-30l-wifi-d13081422.htm`) - **4 499,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/siguro-dh-m100w-air-control-30l-wifi-d13081422.htm)
-- **Braun NEVO17010C** (Kód: `https://www.alza.cz/braun-nevo17010c-d13508786.htm`) - **11 699,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/braun-nevo17010c-d13508786.htm)
-- **Braun NEVO15010C** (Kód: `https://www.alza.cz/braun-nevo15010c-d13508787.htm`) - **10 399,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/braun-nevo15010c-d13508787.htm)
-- **Oral-B iO 6 černý** (Kód: `https://www.alza.cz/oral-b-io-series-6-black-s-magnetickou-technologii-io-d6836409.htm`) - **2 774,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/oral-b-io-series-6-black-s-magnetickou-technologii-io-d6836409.htm)
-- **Philips OneBlade 360 s připojením na tvář a tělo QP4631/65 + 3 roky záruka po registraci** (Kód: `https://www.alza.cz/philips-oneblade-alpha-360-qp4631-65-d7860450.htm`) - **1 349,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/philips-oneblade-alpha-360-qp4631-65-d7860450.htm)
-- **GymBeam Magnesium Block 56g** (Kód: `https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm`) - **87,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm)
-- **Black Diamond W Crag Half-Finger Gloves Raging Sea XS** (Kód: `7586415`) - **419,-** [Kupón: `ALZADNY25`] - [Zobrazit na Alze](https://www.alza.cz/sport/black-diamond-w-crag-half-finger-gloves-raging-sea?dq=7586415)
+- **Braun NEVO17010C** (Kód: `https://www.alza.cz/braun-nevo17010c-d13508786.htm`) - **11 699,-** [Kupón: `ALZADNY50`] - [Zobrazit na Alze](https://www.alza.cz/braun-nevo17010c-d13508786.htm)
+- **SIEMENS TP511R01 EQ500 classic** (Kód: `https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm`) - **9 999,-** [Kupón: `ALZADNY50`] - [Zobrazit na Alze](https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm)
+- **Tefal EY5728E1 Easy Fry Silence** (Kód: `https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm`) - **1 499,-** [Kupón: `ALZADNY50`] - [Zobrazit na Alze](https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm)
