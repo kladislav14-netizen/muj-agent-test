@@ -1,33 +1,4 @@
-# Přehled aktuálních technologických akcí a novinek
-*Poslední aktualizace: 2026-10-18 13:30:45*
+# Přehled akčních nabídek Alza.cz
+*Poslední aktualizace: 2026-10-18 13:33:48*
 
-- **Google tvrdí, že kvůli požadavkům Bruselu musí z hledání odstranit ceny hotelů a letenek** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/google-tvrdi-ze-kvuli-pozadavkum-bruselu-musi-z-hledani-odstranit-ceny-hotelu-a-letenek/)
-- **Šéf Nvidie by zavřel kohoutek zákazníkům s nebezpečnou AI, obavy z ní ale považuje za přehnané** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/sef-nvidie-by-zavrel-kohoutek-zakaznikum-s-nebezpecnou-ai-obavy-z-ni-ale-povazuje-za-prehnane/)
-- **Samsung plánuje rozšíření řady Galaxy Z: jedna z možných novinek vypadá zvlášť zajímavě** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/samsung-planuje-rozsireni-rady-galaxy-z-jedna-z-moznych-novinek-vypada-zvlast-zajimave/)
-- **Fotografie ve Windows 11 v novém: rychlejší start, chytřejší galerie a přepracovaný editor** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/fotografie-ve-windows-11-v-novem-rychlejsi-start-chytrejsi-galerie-a-prepracovany-editor/)
-- **Chcete iPhone Duo? Nemáme. Apple se vyjádřil k mizerné dostupnosti** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/chcete-iphone-duo-nemame-apple-se-vyjadril-k-mizerne-dostupnosti/)
-- **Postavit a vystavit: 8 LEGO stavebnic, které budou ozdobou obýváku** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/postavit-a-vystavit-8-lego-stavebnic-ktere-budou-ozdobou-obyvaku/)
-- **Fosi Audio C3 recenze: geniální zvukovka, kterou potřebujete (nejen) pro GTA 6** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/fosi-audio-c3-recenze-genialni-zvukovka-kterou-potrebujete-nejen-pro-gta-6/)
-- **Ostravská VŠB postavila vlastní testovací polygon, prohánět se po něm budou autonomní vozidla** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/ostravska-vsb-postavila-vlastni-testovaci-polygon-prohanet-se-po-nem-budou-autonomni-vozidla/)
-- **IKEA má vánoční hit za pár stovek: tenhle stromek nepotřebuje jedinou větvičku** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/ikea-ma-vanocni-hit-za-par-stovek-tenhle-stromek-nepotrebuje-jedinou-vetvicku/)
-- **Nový Prince of Persia, pirátská Yakuza a další pecky! Lákavý balíček PC her stojí jen 300 Kč** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/novy-prince-of-persia-piratska-yakuza-a-dalsi-pecky-lakavy-balicek-pc-her-stoji-jen-300-kc/)
-- **Asus představil tenký ExpertBook A7. Má 120Hz OLED a slibuje až 26 hodin výdrže** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/asus-predstavil-tenky-expertbook-a7-ma-120hz-oled-a-slibuje-az-26-hodin-vydrze/)
-- **Paradoxní škrty v Netflixu: streamovací gigant propustí 1000 lidí, byznys přitom roste a platí stamiliony za AI** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/paradoxni-skrty-v-netflixu-streamovaci-gigant-propusti-1000-lidi-byznys-pritom-roste-a-plati-stamiliony-za-ai/)
-- **Předobjednejte si iPhone Duo: takhle na něm hned ušetříte 2 000 Kč** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/predobjednejte-si-iphone-duo-takhle-na-nem-hned-usetrite-2-000-kc/)
-- **Testujeme Oppo Find X10 Pro Max: podívejte se, jak fotí se třemi 200Mpx fotoaparáty** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/testujeme-oppo-find-x10-pro-max-podivejte-se-jak-foti-se-tremi-200mpx-fotoaparaty/)
-- **Co nového míří na Netflix? Tyhle přírůstky si nesmíte nechat ujít** [SmartMania.cz] - [Zobrazit detail](https://smartmania.cz/rijen-na-netflixu-pobavi-i-nadchne-tyhle-novinky-si-nesmite-nechat-ujit/)
-- **Android 17, novinky od Applu a ambice Starlinku: To nej z týdne #42** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/android-17-novinky-od-applu-a-ambice-starlinku-to-nej-z-tydne-42/)
-- **YouTube plánuje větší novinku pro předplatitele Premium** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/youtube-planuje-vetsi-novinku-pro-predplatitele-premium/)
-- **Withings chce za synchronizaci s Apple Health v přepočtu přes 2 000 korun ročně. Nový krok vyvolal mezi zákazníky kritiku.** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/withings-chce-za-synchronizaci-s-apple-health-v-prepoctu-pres-2-000-korun-rocne-novy-krok-vyvolal-mezi-zakazniky-kritiku/)
-- **Sluchátka Oppo Enco vychází ve verzi Air4s** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/oppo-enco-air4s/)
-- **Aplikace Link to Windows nyní umožňuje vzdáleně vypnout, nebo restartovat počítač** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/aplikace-link-to-windows-nyni-umoznuje-vzdalene-vypnout-nebo-restartovat-pocitac/)
-- **Výprodej na Alze: Slevy až 50 % na audio, SSD disky i robotické stavebnice** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/vyprodej-na-alze-slevy-az-50-na-audio-ssd-disky-i-roboticke-stavebnice/)
-- **Aplikace Google Překladač mění tvář: Hlavní obrazovka dostává nový design** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/aplikace-google-prekladac-meni-tvar-hlavni-obrazovka-dostava-novy-design/)
-- **HMD čelí nejisté budoucnosti: Asi přijde změna v působení na trzích** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/hmd-celi-nejiste-budoucnosti-asi-prijde-zmena-v-pusobeni-na-trzich/)
-- **OpenAI a Apple se navzájem žalují. Jeden druhého obviňují kvůli údajným krádežím duševního vlastnictví** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/openai-a-apple-se-navzajem-zaluji-jeden-druheho-obvinuji-kvuli-udajnym-kradezim-dusevniho-vlastnictvi/)
-- **Android 17 míří na telefony Motorola: Kompletní seznam podporovaných modelů** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/08/ktere-smartphony-motorola-dostanou-android-17-zname-oficialni-seznam/)
-- **Honor a aktualizace na Android 17 – dočká se 56 mobilů a tabletů** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/09/honor-predstavil-magicos-11-postaveny-na-androidu-17-kompletni-seznam-podporovanych-zarizeni/)
-- **Spark 50s 5G od Tecno vstupuje do střední třídy** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/tecno-spark-50s-5g/)
-- **Novinka Tecno Spark 50C se snaží nalákat barvou a odolností** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/novinka-tecno-spark-50c-se-snazi-nalakat-barvou-a-odolnosti/)
-- **Sony porušuje sliby: Zrušená aktualizace na Android 17 u Xperia 10 VI** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/sony-porusuje-sliby-zrusena-aktualizace-na-android-17-u-xperia-10-vi/)
-- **Fairbuds 2 přicházejí: udržitelná sluchátka s vyměnitelnou baterií a Bluetooth 6.0** [Dotekománie.cz] - [Zobrazit detail](https://dotekomanie.cz/2026/10/fairbuds-2-prichazeji-udrzitelna-sluchatka-s-vymenitelnou-baterii-a-bluetooth-6-0/)
+Při skenování nebyly nalezeny žádné položky z Alzy.
