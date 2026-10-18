@@ -1,32 +1,11 @@
 {
-  "run_id": "run_20261018_193446_47e20c",
-  "updated_at": "2026-10-18 19:39:56",
-  "duration_seconds": 309.3,
+  "run_id": "run_20261018_194546_d78d2e",
+  "updated_at": "2026-10-18 19:59:50",
+  "duration_seconds": 843.6,
   "status": "SUCCESS",
   "filter_coupon": "ALZADNY20",
-  "total_items_count": 27,
+  "total_items_count": 24,
   "items": [
-    {
-      "order_code": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm",
-      "name": "Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)",
-      "price": "8 990,-",
-      "coupon": "ALZADNY20",
-      "link": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm"
-    },
-    {
-      "order_code": "https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm",
-      "name": "Samsung 990 PRO 4TB",
-      "price": "16 792,-",
-      "coupon": "ALZADNY20",
-      "link": "https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm"
-    },
-    {
-      "order_code": "https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm",
-      "name": "Samsung 990 PRO 1TB",
-      "price": "4 799,-",
-      "coupon": "ALZADNY20",
-      "link": "https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm"
-    },
     {
       "order_code": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm",
       "name": "Siguro MO-B130B Element",
@@ -35,11 +14,11 @@
       "link": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm"
     },
     {
-      "order_code": "https://www.alza.cz/siguro-steampro-t700w-d13054821.htm",
-      "name": "Siguro TopCare T700W - AquaStop + 12 let záruka na motor",
-      "price": "7 992,-",
+      "order_code": "https://www.alza.cz/siguro-easy-wash-slim-f610w-d13054820.htm",
+      "name": "Siguro EasyWash Slim F610W - AquaStop + 12 let záruka na motor",
+      "price": "5 192,-",
       "coupon": "ALZADNY20",
-      "link": "https://www.alza.cz/siguro-steampro-t700w-d13054821.htm"
+      "link": "https://www.alza.cz/siguro-easy-wash-slim-f610w-d13054820.htm"
     },
     {
       "order_code": "https://www.alza.cz/siguro-ks-w650-sugoi-5-ks-dreveny-blok-d7160942.htm",

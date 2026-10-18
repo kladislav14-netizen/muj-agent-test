@@ -1,11 +1,8 @@
 # Přehled produktů Alza dny (ALZADNY20)
-*Run ID: `run_20261018_193446_47e20c` | Aktualizováno: 2026-10-18 19:39:56 | Čas: 309.3 s | Celkem: 27 produktů*
+*Run ID: `run_20261018_194546_d78d2e` | Aktualizováno: 2026-10-18 19:59:50 | Čas: 843.6 s | Celkem: 24 produktů*
 
-- **Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)** (Kód: `https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm`) - **8 990,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm)
-- **Samsung 990 PRO 4TB** (Kód: `https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm`) - **16 792,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm)
-- **Samsung 990 PRO 1TB** (Kód: `https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm`) - **4 799,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm)
 - **Siguro MO-B130B Element** (Kód: `https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm`) - **1 119,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm)
-- **Siguro TopCare T700W - AquaStop + 12 let záruka na motor** (Kód: `https://www.alza.cz/siguro-steampro-t700w-d13054821.htm`) - **7 992,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/siguro-steampro-t700w-d13054821.htm)
+- **Siguro EasyWash Slim F610W - AquaStop + 12 let záruka na motor** (Kód: `https://www.alza.cz/siguro-easy-wash-slim-f610w-d13054820.htm`) - **5 192,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/siguro-easy-wash-slim-f610w-d13054820.htm)
 - **Siguro Sada nožů Sugoi 5 ks + dřevěný blok s brouskem** (Kód: `https://www.alza.cz/siguro-ks-w650-sugoi-5-ks-dreveny-blok-d7160942.htm`) - **1 199,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/siguro-ks-w650-sugoi-5-ks-dreveny-blok-d7160942.htm)
 - **Bery Jones Kešu natural WW320 1kg** (Kód: `https://www.alza.cz/sport/bery-jones-kesu-natural-w320-1kg-d6222952.htm`) - **255,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/sport/bery-jones-kesu-natural-w320-1kg-d6222952.htm)
 - **AlzaPower Arc prodlužovací přívod 230V 5 zásuvek vypínač 2m bílý** (Kód: `https://www.alza.cz/alzapower-arc-prodluzovaci-privod-230v-5-zasuvek-vypinac-2m-bily-d13086182.htm`) - **183,-** [Kupón: `ALZADNY20`] - [Zobrazit na Alze](https://www.alza.cz/alzapower-arc-prodluzovaci-privod-230v-5-zasuvek-vypinac-2m-bily-d13086182.htm)
