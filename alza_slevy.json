@@ -1,31 +1,199 @@
 {
-  "run_id": "run_20261018_151458_fc7244",
-  "updated_at": "2026-10-18 15:19:11",
-  "duration_seconds": 253.3,
+  "run_id": "run_20261018_193446_47e20c",
+  "updated_at": "2026-10-18 19:39:56",
+  "duration_seconds": 309.3,
   "status": "SUCCESS",
-  "filter_coupon": "ALZADNY50",
-  "total_items_count": 3,
+  "filter_coupon": "ALZADNY20",
+  "total_items_count": 27,
   "items": [
     {
-      "order_code": "https://www.alza.cz/braun-nevo17010c-d13508786.htm",
-      "name": "Braun NEVO17010C",
-      "price": "11 699,-",
-      "coupon": "ALZADNY50",
-      "link": "https://www.alza.cz/braun-nevo17010c-d13508786.htm"
+      "order_code": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm",
+      "name": "Acer Aspire Lite 15 Light Silver (AL15-46P-R0C0) (bez adaptréru)",
+      "price": "8 990,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/acer-aspire-lite-15-light-silver-al15-46p-r0c0-bez-adaptreru-d13366001.htm"
     },
     {
-      "order_code": "https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm",
-      "name": "SIEMENS TP511R01 EQ500 classic",
-      "price": "9 999,-",
-      "coupon": "ALZADNY50",
-      "link": "https://www.alza.cz/siemens-tp511r01-eq500-classic-d12457397.htm"
+      "order_code": "https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm",
+      "name": "Samsung 990 PRO 4TB",
+      "price": "16 792,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/samsung-990-pro-4tb-d7930228.htm"
     },
     {
-      "order_code": "https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm",
-      "name": "Tefal EY5728E1 Easy Fry Silence",
-      "price": "1 499,-",
-      "coupon": "ALZADNY50",
-      "link": "https://www.alza.cz/tefal-ey5728e1-easy-fry-silence-d13028241.htm"
+      "order_code": "https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm",
+      "name": "Samsung 990 PRO 1TB",
+      "price": "4 799,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/samsung-990-pro-1tb-d7516911.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm",
+      "name": "Siguro MO-B130B Element",
+      "price": "1 119,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/siguro-mo-b130b-element-d7228346.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-steampro-t700w-d13054821.htm",
+      "name": "Siguro TopCare T700W - AquaStop + 12 let záruka na motor",
+      "price": "7 992,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/siguro-steampro-t700w-d13054821.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/siguro-ks-w650-sugoi-5-ks-dreveny-blok-d7160942.htm",
+      "name": "Siguro Sada nožů Sugoi 5 ks + dřevěný blok s brouskem",
+      "price": "1 199,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/siguro-ks-w650-sugoi-5-ks-dreveny-blok-d7160942.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/bery-jones-kesu-natural-w320-1kg-d6222952.htm",
+      "name": "Bery Jones Kešu natural WW320 1kg",
+      "price": "255,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/bery-jones-kesu-natural-w320-1kg-d6222952.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/alzapower-arc-prodluzovaci-privod-230v-5-zasuvek-vypinac-2m-bily-d13086182.htm",
+      "name": "AlzaPower Arc prodlužovací přívod 230V 5 zásuvek vypínač 2m bílý",
+      "price": "183,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/alzapower-arc-prodluzovaci-privod-230v-5-zasuvek-vypinac-2m-bily-d13086182.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/alzaergo-chair-abyss-2-fabric-cerna-d9785217.htm",
+      "name": "AlzaErgo Chair Abyss 2 Fabric černá",
+      "price": "9 592,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/alzaergo-chair-abyss-2-fabric-cerna-d9785217.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/alzapower-external-sound-card-x250-matna-cerna-d5878390.htm",
+      "name": "AlzaPower External Sound Card X250 matná černá",
+      "price": "199,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/alzapower-external-sound-card-x250-matna-cerna-d5878390.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/oral-b-io-series-6-black-s-magnetickou-technologii-io-d6836409.htm",
+      "name": "Oral-B iO 6 černý",
+      "price": "2 774,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/oral-b-io-series-6-black-s-magnetickou-technologii-io-d6836409.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/oral-b-io-9-duo-black-onyx-rose-quartz-d6931545.htm",
+      "name": "Oral-B iO 9 DUO černý a růžový",
+      "price": "6 824,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/oral-b-io-9-duo-black-onyx-rose-quartz-d6931545.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/delonghi-magnifica-evo-next-ecam-310-60-gb-d12457403.htm",
+      "name": "De'Longhi Magnifica Evo Next ECAM 310.60.GB",
+      "price": "10 399,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/delonghi-magnifica-evo-next-ecam-310-60-gb-d12457403.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/rowenta-rh2038wo-x-force-flex-9-60-3v1-allergy-auto-100aw-d7659516.htm",
+      "name": "Rowenta RH2038WO X-Force Flex 9.60 3v1 Allergy Auto 100AW",
+      "price": "3 199,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/rowenta-rh2038wo-x-force-flex-9-60-3v1-allergy-auto-100aw-d7659516.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/rowenta-rh6a73wo-x-pert-7-60-animal-d12283633.htm",
+      "name": "Rowenta RH6A73WO X-PERT 7.60 Animal",
+      "price": "2 799,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/rowenta-rh6a73wo-x-pert-7-60-animal-d12283633.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/tefal-ey801815-easy-fry-grill-xxl-d7624146.htm",
+      "name": "Tefal EY801815 Easy Fry & Grill XXL",
+      "price": "2 559,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/tefal-ey801815-easy-fry-grill-xxl-d7624146.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/tefal-gc727810-optigrill-xl-black-d10788213.htm",
+      "name": "Tefal GC727810 Optigrill+ XL Black",
+      "price": "3 519,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/tefal-gc727810-optigrill-xl-black-d10788213.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/krups-ea89zb10-evidence-classic-black-grey-d7868188.htm",
+      "name": "KRUPS EA89ZB10 Evidence Classic black/grey + dárek za recenzi",
+      "price": "8 543,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/krups-ea89zb10-evidence-classic-black-grey-d7868188.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/rowenta-compact-power-xxl-animal-900w-ro4b50ea-d7729987.htm",
+      "name": "Rowenta Compact Power XXL Animal 900W RO4B50EA",
+      "price": "2 399,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/rowenta-compact-power-xxl-animal-900w-ro4b50ea-d7729987.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/krups-kp243110ce-nescafe-dolce-gusto-genio-s-darkovy-set-s-36-kapslemi-starbucks-caramel-macchiato-d12486913.htm",
+      "name": "KRUPS KP243110CE Nescafé Dolce Gusto Genio S dárkový set s 36 kapslemi STARBUCKS Caramel Macchiato",
+      "price": "2 079,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/krups-kp243110ce-nescafe-dolce-gusto-genio-s-darkovy-set-s-36-kapslemi-starbucks-caramel-macchiato-d12486913.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/tefal-ey905b10-dual-easy-fry-grill-8-3-l-d7911944.htm",
+      "name": "Tefal EY905B10 Dual Easy Fry & Grill 8,3 l",
+      "price": "3 198,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/tefal-ey905b10-dual-easy-fry-grill-8-3-l-d7911944.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/tefal-gc717810-optigrill-black-d10788218.htm",
+      "name": "Tefal GC717810 Optigrill+ Black",
+      "price": "3 079,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/tefal-gc717810-optigrill-black-d10788218.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm",
+      "name": "GymBeam Magnesium Block 56g",
+      "price": "87,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/gymbeam-magnesium-block-56g-d7755413.htm"
+    },
+    {
+      "order_code": "7490382",
+      "name": "Black Diamond Lezecká helma Vision Helmet Hyper red, S-M",
+      "price": "1 655,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/black-diamond-lezecka-helma-vision-helmet-hyper-red?dq=7490382"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/mammut-ophir-3-slide-2-0-women-harness-xs-d13452565.htm",
+      "name": "Mammut Ophir 3 Slide 2.0 Women Harness XS",
+      "price": "1 399,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/mammut-ophir-3-slide-2-0-women-harness-xs-d13452565.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/mammut-ophir-3-slide-2-0-women-harness-s-d13452566.htm",
+      "name": "Mammut Ophir 3 Slide 2.0 Women Harness S",
+      "price": "1 399,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/mammut-ophir-3-slide-2-0-women-harness-s-d13452566.htm"
+    },
+    {
+      "order_code": "https://www.alza.cz/sport/camp-core-belay-lock-gun-metal-d6939446.htm",
+      "name": "Camp Core Belay Lock - Gun metal",
+      "price": "479,-",
+      "coupon": "ALZADNY20",
+      "link": "https://www.alza.cz/sport/camp-core-belay-lock-gun-metal-d6939446.htm"
     }
   ]
 }
